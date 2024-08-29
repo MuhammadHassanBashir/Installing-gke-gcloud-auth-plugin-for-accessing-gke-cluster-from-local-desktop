@@ -17,6 +17,10 @@ then install gke-gcloud-auth-plugin
 
     sudo apt-get update && sudo apt-get install google-cloud-cli-gke-gcloud-auth-plugin
 
+then install kubectl using snap. if check snap is installed on system on not.
+
+    sudo snap install kubectl --classic
+
 site link:
 
         https://cloud.google.com/sdk/docs/install-sdk#deb
