@@ -22,6 +22,18 @@ then install kubectl using snap. if check snap is installed on system on not.
 
     sudo snap install kubectl --classic
 
-site link:
+## Site link:
 
         https://cloud.google.com/sdk/docs/install-sdk#deb
+
+
+## Follow link to install gcloud and kubectl on local windows enviroment
+
+for gcloud utility
+
+    https://cloud.google.com/sdk/docs/install-sdk#windows
+
+for kubectl utility
+
+    https://cloud.google.com/sdk/docs/components
+
